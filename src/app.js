@@ -1,4 +1,5 @@
 import { http } from './http';
+import { ui } from './ui';
 
 document.addEventListener('DOMContentLoaded', getPosts);
 
